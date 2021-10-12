@@ -105,3 +105,8 @@ function DataReq() {
     var url = "../Site/DataReq_Detail.html";
     window.location.href = url;
 }
+
+function Resume() {
+    var url = "https://drive.google.com/file/d/1jFxZbqOhIIJqdm-zqewQCMcvH6NbckZU/view?usp=sharing";
+    window.location.href = url;
+}
